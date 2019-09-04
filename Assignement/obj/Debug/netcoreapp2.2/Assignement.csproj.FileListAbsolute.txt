@@ -1,0 +1,11 @@
+D:\RiderProject\Assignement\Assignement\bin\Debug\netcoreapp2.2\Assignement.deps.json
+D:\RiderProject\Assignement\Assignement\bin\Debug\netcoreapp2.2\Assignement.runtimeconfig.json
+D:\RiderProject\Assignement\Assignement\bin\Debug\netcoreapp2.2\Assignement.runtimeconfig.dev.json
+D:\RiderProject\Assignement\Assignement\bin\Debug\netcoreapp2.2\Assignement.dll
+D:\RiderProject\Assignement\Assignement\bin\Debug\netcoreapp2.2\Assignement.pdb
+D:\RiderProject\Assignement\Assignement\obj\Debug\netcoreapp2.2\Assignement.csprojAssemblyReference.cache
+D:\RiderProject\Assignement\Assignement\obj\Debug\netcoreapp2.2\Assignement.csproj.CoreCompileInputs.cache
+D:\RiderProject\Assignement\Assignement\obj\Debug\netcoreapp2.2\Assignement.AssemblyInfoInputs.cache
+D:\RiderProject\Assignement\Assignement\obj\Debug\netcoreapp2.2\Assignement.AssemblyInfo.cs
+D:\RiderProject\Assignement\Assignement\obj\Debug\netcoreapp2.2\Assignement.dll
+D:\RiderProject\Assignement\Assignement\obj\Debug\netcoreapp2.2\Assignement.pdb
